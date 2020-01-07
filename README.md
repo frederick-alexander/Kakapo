@@ -1,3 +1,8 @@
+
+<p align="center">
+    ![SESO Logo][logo.png]
+</p>
+
 # Kakapo
 Discord bot for the SESO discord
 
