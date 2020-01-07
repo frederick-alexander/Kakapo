@@ -1,0 +1,21 @@
+Bravo 1,UN Military Advisor Cossack
+Bravo 1-1,Squad Leader
+Bravo 1-1,Medic
+Bravo 1-1,Marksman
+Bravo 1-1,UAV Operator
+Bravo 1-1,Machine Gunner
+Bravo 1-1,Rifleman (AT)
+Bravo 1-1,Rifleman
+Bravo 1-1,Rifleman
+Bravo 1-1,Engineer
+Bravo 1-1,Ammo Bearer
+Bravo 1-2,Team Leader
+Bravo 1-2,Medic
+Bravo 1-2,Marksman
+Bravo 1-2,UAV Operator
+Bravo 1-2,Machine Gunner
+Bravo 1-2,Rifleman (AT)
+Bravo 1-2,Rifleman
+Bravo 1-2,Rifleman
+Bravo 1-2,Engineer
+Bravo 1-2,Ammo Bearer

@@ -1,0 +1,9 @@
+class reddit_tokens:
+	self.user_agent= None
+	self.client_id= None
+	self.client_secret= None
+	self.redirect_uri= None
+	self.username= None
+	self.password= None
+
+discord_token = None
