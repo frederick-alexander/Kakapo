@@ -1,6 +1,6 @@
 
 <p align="center">
-    ![SESO Logo][logo.png]
+    ![SESO Logo](logo.png)
 </p>
 
 # Kakapo
