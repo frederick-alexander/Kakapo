@@ -1,6 +1,6 @@
 
 <p align="center">
-    ![SESO Logo](logo.png)
+    <img src = "logo.png">
 </p>
 
 # Kakapo
