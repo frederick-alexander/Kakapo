@@ -1,7 +1,7 @@
 import praw
 import time
-from const import reddit_tokens as token
-
+from const import reddit_tokens
+token = reddit_tokens()
 reddit = praw.Reddit(user_agent= token.user_agent,
 		  client_id= token.client_id,
 		  client_secret= token.client_secret,
